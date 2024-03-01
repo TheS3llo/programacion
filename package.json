@@ -1,0 +1,18 @@
+{
+  "name": "clasejueves2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app":"node app.js",
+
+    "sum":"node operations/sum.js",
+
+    "sub":"node operations/basic/sub.js"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
