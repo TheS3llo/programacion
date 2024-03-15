@@ -9,7 +9,11 @@
 
     "sum":"node operations/sum.js",
 
-    "sub":"node operations/basic/sub.js"
+    "sub":"node operations/basic/sub.js",
+
+    "variables":" node variables.js",
+
+    "operadores": "node operadores.js"
 
 
   },
