@@ -13,7 +13,9 @@
 
     "variables":" node variables.js",
 
-    "operadores": "node operadores.js"
+    "operadores": "node operadores.js",
+
+    "operadoreslog": "node operations/operadoreslog.js"
 
 
   },
